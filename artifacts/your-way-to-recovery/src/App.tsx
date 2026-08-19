@@ -10,12 +10,12 @@ import { Route, Switch, useLocation, Router as WouterRouter } from 'wouter';
 const queryClient = new QueryClient();
 
 const services = [
-  { number: '01', title: 'Abuse Trauma', text: 'A private, steady place to understand what happened and reclaim the parts of yourself that remain yours.' },
-  { number: '02', title: 'Concierge Therapy', text: 'High-touch support for men who need a more responsive, integrated relationship with their therapist.' },
-  { number: '03', title: 'Addictions', text: 'Clear-eyed recovery support that respects the complexity behind the behavior, not just the behavior itself.' },
-  { number: '04', title: 'Couples Therapy', text: 'A grounded conversation for partners ready to change the pattern, not simply win the argument.' },
-  { number: '05', title: 'Intervention', text: 'Thoughtful guidance for families who need to act with clarity, care, and a plan.' },
-  { number: '06', title: 'DUI Program', text: 'Accountability and education designed to meet the legal requirement while making the moment mean something more.' },
+  { number: '01', title: 'Abuse Trauma', text: 'Trauma such as sexual abuse and domestic violence can impact one’s spirituality,...' },
+  { number: '02', title: 'Concierge Therapy', text: 'Modeled after the Medical Doctor (MD) Concierge, we offer therapy via the...' },
+  { number: '03', title: 'Addictions', text: 'We live in a time when addictions are more common than ever. From smartphones,...' },
+  { number: '04', title: 'Couples Therapy', text: 'Therapy will be tailored to each unique couple’s needs. Upon meeting each couple,...' },
+  { number: '05', title: 'Intervention', text: 'Need an intervention…call Belina. By now we all have heard about interventions,...' },
+  { number: '06', title: 'DUI Program', text: 'If you are a high profile man, such as an attorney, doctor, newscaster, reporter,...' },
 ];
 
 function useReveal() {
@@ -115,11 +115,11 @@ function Home() {
       </header>
 
       <main id="top">
-        <section className="relative min-h-[720px] overflow-hidden bg-[#102b3b] text-[#f5f1e7] lg:min-h-[780px]">
-          <div className="absolute inset-0 image-tint">
-            <img src="/images/hero-man.jpg" alt="A man looking out through a window toward a misty horizon" className="h-full w-full object-cover object-[62%_center] opacity-80 lg:object-center" />
+        <section className="relative grid overflow-hidden bg-[#102b3b] text-[#f5f1e7] lg:grid-cols-[58%_42%]">
+          <div className="relative h-[54dvh] min-h-[410px] image-tint lg:h-[780px]">
+            <img src="/images/hero-man.jpg" alt="A man looking out through a window toward a misty horizon" className="h-full w-full object-cover object-[68%_66%] opacity-80" />
           </div>
-          <div className="relative mx-auto flex min-h-[720px] max-w-[1320px] items-end px-6 pb-14 pt-36 lg:min-h-[780px] lg:items-center lg:px-12 lg:pb-0">
+          <div className="relative flex min-h-[470px] flex-col justify-center px-6 py-16 lg:min-h-[780px] lg:px-14 lg:py-0 xl:px-20">
             <div className="max-w-[670px]">
               <Reveal>
                 <p className="font-mono-ui text-[10px] uppercase tracking-[.24em] text-[#d4b779]">Private therapy &amp; recovery practice for men</p>
@@ -159,13 +159,13 @@ function Home() {
         <section id="approach" className="relative bg-[#f5f1e7] px-6 py-24 lg:px-12 lg:py-36">
           <div className="mx-auto grid max-w-[1120px] gap-16 lg:grid-cols-[.75fr_1.25fr] lg:gap-28">
             <Reveal className="lg:pt-4">
-              <p className="font-mono-ui text-[10px] uppercase tracking-[.22em] text-[#527076]">The work, in your words</p>
+              <p className="font-mono-ui text-[9px] uppercase tracking-[.16em] text-[#527076]">Convenience &amp; Quality</p>
               <div className="mt-9 h-px w-16 bg-[#c6a86a]" />
-              <p className="mt-8 max-w-[230px] text-sm leading-6 text-[#527076]">Recovery is not a performance. It is a relationship with yourself that gets more honest over time.</p>
+              <p className="mt-8 max-w-[270px] text-sm leading-6 text-[#527076]">One learning aspect to the Covid 19 Pandemic was that telehealth is just as effective as in person therapy in a brick and mortar office.</p>
             </Reveal>
             <Reveal delay="delay-1">
-              <h2 className="max-w-[700px] font-display text-[clamp(3rem,6vw,6.4rem)] leading-[.9] tracking-[-.035em]">A private place to<br /><em>put it down.</em></h2>
-              <p className="mt-9 max-w-[600px] text-base leading-7 text-[#527076]">There is a particular kind of strength in deciding you do not have to carry everything alone. Our work is for men who are ready to be met honestly — without judgment, shortcuts, or a one-size-fits-all plan.</p>
+              <h2 className="max-w-[700px] font-display text-[clamp(3rem,6vw,6.4rem)] leading-[.9] tracking-[-.035em]">Therapy unique<br /><em>to you.</em></h2>
+              <p className="mt-9 max-w-[600px] text-base leading-7 text-[#527076]">Social distancing did not mean that one could not access quality mental health care, but just the opposite. Whether you work long hours or live in a rural area and/or busy balancing children, these are all reasons to meet via a video platform such as Zoom or Google Meets.</p>
               <a href="#concierge" data-testid="link-approach-concierge" className="mt-9 inline-flex items-center gap-3 border-b border-[#1e6565] pb-2 font-mono-ui text-[10px] uppercase tracking-[.18em] text-[#1e6565] transition-colors hover:border-[#c6a86a] hover:text-[#8b6e37]">See how we work <ArrowUpRight size={14} /></a>
             </Reveal>
           </div>
@@ -228,9 +228,9 @@ function Home() {
             </Reveal>
             <Reveal delay="delay-1">
               <p className="font-mono-ui text-[10px] uppercase tracking-[.22em] text-[#527076]">About Belina</p>
-              <h2 className="mt-7 font-display text-[clamp(3rem,5vw,5.8rem)] leading-[.88] tracking-[-.03em]">The person<br />across from <em>you.</em></h2>
+              <h2 className="mt-7 font-display text-[clamp(3rem,5vw,5.8rem)] leading-[.88] tracking-[-.03em]">About Belina<br /><em>N. Fruitman</em></h2>
               <p className="mt-9 max-w-[560px] text-base leading-7 text-[#527076]">Belina’s goal is to support her client’s in their personal and professional goals by integrating evidence based tools and diverse materials while focusing on the client’s inherent strengths.</p>
-              <p className="mt-5 max-w-[560px] text-base leading-7 text-[#527076]">Her approach is direct, curious, and deeply human. The work makes room for accountability and humor, ambition and rest — all of the things that make a life worth returning to.</p>
+              <p className="mt-5 max-w-[560px] text-base leading-7 text-[#527076]">Belina N. Fruitman, LCSW, CAS, LLC</p>
               <div className="mt-10 flex items-center gap-4 border-t border-[#c5d0c9] pt-6">
                 <span className="h-9 w-9 border border-[#1e6565] text-center font-display text-2xl italic leading-8 text-[#1e6565]">B</span>
                 <span className="font-mono-ui text-[10px] uppercase tracking-[.16em] text-[#527076]">Belina · Your Way to Recovery</span>
@@ -244,8 +244,8 @@ function Home() {
             <Reveal>
               <div className="flex items-start justify-between gap-8">
                 <div>
-                  <p className="font-mono-ui text-[10px] uppercase tracking-[.22em] text-[#d4b779]">How it begins</p>
-                  <h2 className="mt-7 max-w-[650px] font-display text-[clamp(3rem,5.5vw,6rem)] leading-[.87] tracking-[-.03em]">No grand gesture.<br /><em>Just a first step.</em></h2>
+                  <p className="font-mono-ui text-[10px] uppercase tracking-[.22em] text-[#d4b779]">Who we are</p>
+                  <h2 className="mt-7 max-w-[650px] font-display text-[clamp(3rem,5.5vw,6rem)] leading-[.87] tracking-[-.03em]">Honoring men’s inherent<br /><em>strengths and personal growth.</em></h2>
                 </div>
                 <ArrowUpRight className="mt-1 hidden text-[#d4b779] sm:block" size={30} strokeWidth={1} />
               </div>
