@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Your Way to Recovery"
+description = "A premium therapy and recovery website for men, reorganizing the existing Your Way to Recovery messaging into a calm, private, emotionally resonant experience."
+version = "1.0.0"
+id = "artifacts/your-way-to-recovery"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24446
+
+[services.development]
+run = "pnpm --filter @workspace/your-way-to-recovery run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/your-way-to-recovery", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/your-way-to-recovery/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24446"
+BASE_PATH = "/"

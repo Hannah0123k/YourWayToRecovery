@@ -1,0 +1,404 @@
+HIGH-END MEN’S THERAPY WEBSITE — COMPLETE DESIGN REDESIGN
+
+I need you to completely redesign this website into a high-end, modern, emotionally impactful therapy website specifically designed for men.
+
+This should NOT look like a generic therapist website, a basic healthcare template, or a website that simply stacks large amounts of text down the page.
+
+The existing website contains the information and copy we need, but the design, visual hierarchy, spacing, organization, and overall experience need to be dramatically improved.
+
+PRIMARY GOAL
+
+Create a website that feels:
+
+* Premium
+* Sophisticated
+* Masculine
+* Calm
+* Private
+* Established
+* Emotionally powerful
+* Trustworthy
+* Modern
+* Extremely polished
+
+Imagine a high-end private therapy practice designed for men who may be successful professionally but are struggling personally.
+
+The website should immediately communicate:
+
+“This is a private, professional place where I can actually get help without feeling judged.”
+
+It should feel much closer to a luxury professional services brand than a typical therapist website.
+
+⸻
+
+IMPORTANT: DO NOT REWRITE THE COPY
+
+Do NOT substantially rewrite the existing website copy.
+
+The purpose of this project is primarily to redesign and reorganize the presentation of the existing content.
+
+You may:
+
+* Break long text into visually digestible sections
+* Change where content appears
+* Create headings/subheadings from existing content when necessary for organization
+* Use excerpts of existing copy in visually prominent areas
+* Move content into cards, callouts, accordions, or separate sections
+* Improve formatting and hierarchy
+
+But do not replace the existing messaging with generic AI-written therapy copy.
+
+Also:
+
+Do NOT create or emphasize pricing plans.
+
+Pricing is not part of the design direction I want.
+
+⸻
+
+DESIGN DIRECTION
+
+Use a sophisticated masculine color palette.
+
+The primary colors should be variations of:
+
+* Deep navy
+* Rich dark blue
+* Muted teal
+* Deep blue-green
+* Warm off-white / ivory
+* Soft neutral gray
+
+Teal can be used strategically as an accent color.
+
+Do NOT make the entire website bright blue.
+
+Avoid the stereotypical corporate healthcare blue-and-white appearance.
+
+I want depth and contrast.
+
+For example, alternate between:
+
+* Dark navy sections
+* Warm off-white sections
+* Muted blue/gray sections
+* Select teal accents
+* Large photography sections
+
+The transitions between sections should make the page feel intentionally designed.
+
+⸻
+
+VISUAL HIERARCHY IS EXTREMELY IMPORTANT
+
+One of the biggest problems with the current website is that there is too much information competing for attention at once.
+
+I do NOT want that.
+
+Every section needs a very clear purpose.
+
+When someone scrolls down the website, their eye should immediately understand:
+
+1. What is this section about?
+2. What is the most important thing I should read?
+3. What should I look at next?
+
+Use:
+
+* Strong typography hierarchy
+* Large section headlines
+* Shorter readable text widths
+* Generous whitespace
+* Strategic photography
+* Cards where appropriate
+* Alternating layouts
+* Clear visual separation between topics
+* Pull quotes or emphasized statements
+* Subtle backgrounds
+* Intentional spacing
+* Clear calls to action
+
+Do NOT put giant blocks of text across the full width of the screen.
+
+Longer paragraphs should have controlled widths so they remain comfortable to read.
+
+⸻
+
+EMOTIONAL DESIGN
+
+The website needs to have emotional weight.
+
+This is therapy for men, so I don’t want imagery that feels overly staged, overly cheerful, feminine, or like generic wellness stock photography.
+
+Photography should communicate emotions such as:
+
+* Pressure
+* Isolation
+* Responsibility
+* Reflection
+* Relationships
+* Fatherhood
+* Marriage
+* Career stress
+* Recovery
+* Strength
+* Hope
+* Personal change
+
+However, do NOT make the entire website dark or depressing.
+
+There should be a visual progression.
+
+The beginning can acknowledge struggle, pressure, or feeling stuck.
+
+As the visitor moves through the website, the design can gradually feel more open, hopeful, and forward-looking.
+
+The emotional message should be:
+
+You may be carrying a lot right now, but your life does not have to remain this way.
+
+Use imagery sparingly and intentionally. I would rather have five excellent images with purpose than fifteen generic stock photos.
+
+⸻
+
+HERO SECTION
+
+The hero section needs to be exceptional.
+
+Do not create a generic layout with:
+
+THERAPIST FOR MEN
+Paragraph
+Button
+Stock photo
+
+Instead, create something that feels editorial and premium.
+
+Consider:
+
+* Large, emotionally compelling photography
+* Strong typography
+* Sophisticated overlay treatment
+* Dark navy/teal gradients where appropriate
+* Excellent spacing
+* One clear primary CTA
+* A smaller secondary action if useful
+* Subtle visual details that make the design feel custom
+
+The first screen should immediately establish credibility and emotion.
+
+Someone should be able to look at the homepage for five seconds and understand:
+
+This is professional therapy created specifically with men in mind.
+
+⸻
+
+SECTION DESIGN
+
+Do NOT make every section use the same layout.
+
+Create rhythm throughout the page.
+
+For example:
+
+Section 1 — Hero
+Large emotional visual + strong message.
+
+Section 2 — Recognition
+Help the visitor recognize themselves in the problems being discussed.
+
+Section 3 — Services / Areas of Support
+Use an elegant structured layout rather than a wall of paragraphs.
+
+Section 4 — Emotional / Editorial Moment
+A larger statement, quote, or image-led section that gives the page breathing room.
+
+Section 5 — About the Therapist
+Professional but personal. Establish expertise and trust without making this feel like a résumé.
+
+Section 6 — Approach
+Explain how therapy works using a highly readable visual structure.
+
+Section 7 — Additional Existing Information
+Organize the remaining existing copy intelligently rather than simply dumping it onto the page.
+
+Final Section — CTA
+Create a strong, reassuring final invitation to contact the practice.
+
+This structure is only a starting point. Analyze the existing content and determine the best information architecture.
+
+⸻
+
+NAVIGATION
+
+Create a polished, minimal navigation.
+
+It should feel premium and uncluttered.
+
+Use clear navigation labels and a prominent but tasteful CTA such as:
+
+Schedule a Consultation
+
+or use the existing site’s preferred CTA language.
+
+The header should work beautifully on desktop and mobile.
+
+Consider a transparent/dark hero navigation that transitions into a solid navigation treatment when scrolling if appropriate.
+
+⸻
+
+TYPOGRAPHY
+
+Typography should play a major role in making this website feel expensive.
+
+Use a sophisticated combination such as:
+
+* Refined serif/display font for major emotional headlines
+* Clean modern sans-serif for body copy, navigation, buttons, and UI
+
+OR use an exceptionally strong modern sans-serif system if it fits the final design better.
+
+Do not use fonts that make the website look like a generic Squarespace therapy template.
+
+Headlines should feel confident and editorial.
+
+Body copy should be extremely readable.
+
+⸻
+
+MICROINTERACTIONS & MOTION
+
+Add subtle, sophisticated motion where it improves the experience.
+
+Examples:
+
+* Gentle fade/slide reveals
+* Subtle image movement
+* Elegant button hover states
+* Smooth section transitions
+* Refined navigation behavior
+* Small card interactions
+
+Do NOT over-animate the website.
+
+No gimmicks.
+
+Motion should make the site feel more polished, not more complicated.
+
+Respect prefers-reduced-motion.
+
+⸻
+
+RESPONSIVE DESIGN
+
+The website must be designed intentionally for:
+
+* Large desktop monitors
+* Standard laptops
+* Tablets
+* Mobile phones
+
+Do NOT simply shrink the desktop design for mobile.
+
+Mobile needs its own carefully considered spacing, typography, image cropping, navigation, and hierarchy.
+
+There should be no:
+
+* Horizontal overflow
+* Awkward headline wrapping
+* Giant empty spaces
+* Tiny text
+* Images covering text
+* Buttons running off-screen
+* Broken layouts at unusual browser widths
+
+Test the design across multiple viewport sizes.
+
+⸻
+
+ACCESSIBILITY & QUALITY
+
+Maintain strong contrast and readability.
+
+Use semantic HTML and appropriate heading hierarchy.
+
+Buttons and interactive elements should have proper states.
+
+Images need meaningful alt text where appropriate.
+
+Keep text readable and do not sacrifice usability for aesthetics.
+
+Performance also matters. Optimize images and avoid unnecessarily heavy effects or dependencies.
+
+⸻
+
+WHAT I DO NOT WANT
+
+Do NOT:
+
+* Make it look like a generic therapy template
+* Make everything white with blue buttons
+* Use excessive gradients
+* Use cheesy mental-health illustrations
+* Use generic smiling stock-photo models everywhere
+* Put huge paragraphs across the screen
+* Make every section identical
+* Overuse rounded cards
+* Put every piece of information inside a box
+* Add unnecessary pricing sections
+* Rewrite all of the copy
+* Fill empty space just because space exists
+* Add decorative elements without purpose
+* Make the website feel feminine or spa-like
+* Make it aggressively masculine with cliché imagery
+* Use stereotypical “manly” imagery like whiskey, watches, suits, sports cars, etc.
+* Make it feel like a tech startup
+
+The masculinity should come through confidence, restraint, typography, color, photography, and structure — not clichés.
+
+⸻
+
+DESIGN STANDARD
+
+I want this to feel like a website that would realistically cost $15,000–$30,000+ from a professional branding/web design agency, not an AI-generated template.
+
+Pay attention to details:
+
+* Grid alignment
+* Vertical rhythm
+* Consistent spacing
+* Typography scale
+* Line length
+* Image crops
+* Button sizing
+* Border treatments
+* Navigation spacing
+* Section transitions
+* Hover states
+* Mobile behavior
+
+There should be a clear design system behind the website.
+
+⸻
+
+BEFORE IMPLEMENTING
+
+First analyze the existing website.
+
+Identify:
+
+1. All major content currently on the site
+2. Which information belongs together
+3. Where the current design overwhelms the visitor
+4. Which existing visual elements are worth retaining
+5. Which elements should be completely redesigned
+6. The best new information hierarchy
+7. The ideal emotional journey through the page
+
+Then build the redesigned site.
+
+Do not simply reproduce the existing page using different colors.
+
+Reimagine the entire visual experience while preserving the substance of the existing website.
+
+The final result should make the old website feel clearly outdated when viewed side-by-side with the redesign.
