@@ -178,7 +178,7 @@ function Home() {
               <h2 className="mt-7 font-display text-[clamp(3rem,5.6vw,6rem)] leading-[.88] tracking-[-.03em]">Life Coaching,<br /><em>Concierge Recovery Therapy</em></h2>
             </Reveal>
             <Reveal delay="delay-1">
-              <p className="max-w-[560px] text-base leading-7 text-[#d5e0dc]">Modeled after the Medical Doctor (MD) Concierge, we offer therapy via the Concierge Therapist. For a monthly fee, you or your loved one will receive private therapy and a daily check-in via phone.</p>
+              <p className="max-w-[560px] text-base leading-7 text-[#d5e0dc]">Modeled after the Medical Doctor (MD) Concierge, we offer therapy via the Concierge Therapist. For a monthly fee, you or your loved one will receive private therapy.</p>
               <div className="mt-10 grid gap-5 border-t border-[#6a9993] pt-7 sm:grid-cols-2">
                 <div><span className="font-mono-ui text-[10px] text-[#d4b779]">01 / CONSISTENCY</span><p className="mt-2 text-sm leading-6 text-[#d5e0dc]">A dependable rhythm that makes change possible between sessions, not just inside them.</p></div>
                 <div><span className="font-mono-ui text-[10px] text-[#d4b779]">02 / ACCESS</span><p className="mt-2 text-sm leading-6 text-[#d5e0dc]">Telehealth via Zoom or Google Meets, designed around the realities of your life.</p></div>
