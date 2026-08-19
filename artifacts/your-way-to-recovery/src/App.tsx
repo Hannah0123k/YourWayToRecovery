@@ -115,11 +115,11 @@ function Home() {
       </header>
 
       <main id="top">
-        <section className="relative grid overflow-hidden bg-[#102b3b] text-[#f5f1e7] lg:grid-cols-[58%_42%]">
-          <div className="relative h-[54dvh] min-h-[410px] image-tint lg:h-[780px]">
+        <section className="relative grid overflow-hidden bg-[#102b3b] text-[#f5f1e7] lg:min-h-[100svh] lg:grid-cols-[58%_42%]">
+          <div className="relative h-[62dvh] min-h-[460px] image-tint lg:h-[100svh]">
             <img src="/images/hero-man.jpg" alt="A man looking out through a window toward a misty horizon" className="h-full w-full object-cover object-[68%_66%] opacity-80" />
           </div>
-          <div className="relative flex min-h-[470px] flex-col justify-center px-6 py-16 lg:min-h-[780px] lg:px-14 lg:py-0 xl:px-20">
+          <div className="relative flex min-h-[500px] flex-col justify-center px-6 py-16 lg:min-h-[100svh] lg:px-14 lg:py-0 xl:px-20">
             <div className="max-w-[670px]">
               <Reveal>
                 <p className="font-mono-ui text-[10px] uppercase tracking-[.24em] text-[#d4b779]">Private therapy &amp; recovery practice for men</p>
@@ -145,12 +145,12 @@ function Home() {
         </section>
 
         <section className="border-b border-[#c5d0c9] bg-[#dbe5df]">
-          <div className="mx-auto grid max-w-[1320px] grid-cols-2 divide-x divide-[#b9c9c1] lg:grid-cols-4">
+          <div className="mx-auto grid max-w-[1320px] grid-cols-2 divide-x divide-[#b9c9c1] lg:grid-cols-3">
             {[
-              ['01', 'Private by design'], ['02', 'Telehealth available'], ['03', 'Two sessions weekly'], ['04', 'Built around you'],
-            ].map(([number, label]) => (
-              <div key={number} className="flex items-center gap-4 px-6 py-5 lg:px-12">
-                <span className="font-mono-ui text-[10px] text-[#8b6e37]">{number}</span><span className="text-xs text-[#365660]">{label}</span>
+              ['Private by design'], ['Telehealth available'], ['Built around you'],
+            ].map(([label]) => (
+              <div key={label} className="flex items-center px-6 py-5 lg:px-12">
+                <span className="text-xs text-[#365660]">{label}</span>
               </div>
             ))}
           </div>
@@ -159,7 +159,7 @@ function Home() {
         <section id="approach" className="relative bg-[#f5f1e7] px-6 py-24 lg:px-12 lg:py-36">
           <div className="mx-auto grid max-w-[1120px] gap-16 lg:grid-cols-[.75fr_1.25fr] lg:gap-28">
             <Reveal className="lg:pt-4">
-              <p className="font-mono-ui text-[9px] uppercase tracking-[.16em] text-[#527076]">Convenience &amp; Quality</p>
+              <p className="font-mono-ui text-[14px] font-semibold uppercase tracking-[.14em] text-[#527076] sm:text-[16px]">Convenience &amp; Quality</p>
               <div className="mt-9 h-px w-16 bg-[#c6a86a]" />
               <p className="mt-8 max-w-[270px] text-sm leading-6 text-[#527076]">One learning aspect to the Covid 19 Pandemic was that telehealth is just as effective as in person therapy in a brick and mortar office.</p>
             </Reveal>
@@ -178,7 +178,7 @@ function Home() {
               <h2 className="mt-7 font-display text-[clamp(3rem,5.6vw,6rem)] leading-[.88] tracking-[-.03em]">Life Coaching,<br /><em>Concierge Recovery Therapy</em></h2>
             </Reveal>
             <Reveal delay="delay-1">
-              <p className="max-w-[560px] text-base leading-7 text-[#d5e0dc]">Modeled after the Medical Doctor (MD) Concierge, we offer therapy via the Concierge Therapist. For a monthly fee, you or your loved one will receive two sessions per week of private therapy plus 15 minutes per day of a check-in via phone.</p>
+              <p className="max-w-[560px] text-base leading-7 text-[#d5e0dc]">Modeled after the Medical Doctor (MD) Concierge, we offer therapy via the Concierge Therapist. For a monthly fee, you or your loved one will receive private therapy and a daily check-in via phone.</p>
               <div className="mt-10 grid gap-5 border-t border-[#6a9993] pt-7 sm:grid-cols-2">
                 <div><span className="font-mono-ui text-[10px] text-[#d4b779]">01 / CONSISTENCY</span><p className="mt-2 text-sm leading-6 text-[#d5e0dc]">A dependable rhythm that makes change possible between sessions, not just inside them.</p></div>
                 <div><span className="font-mono-ui text-[10px] text-[#d4b779]">02 / ACCESS</span><p className="mt-2 text-sm leading-6 text-[#d5e0dc]">Telehealth via Zoom or Google Meets, designed around the realities of your life.</p></div>
