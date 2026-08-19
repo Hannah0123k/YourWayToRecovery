@@ -88,13 +88,13 @@ function ConsultationModal({ open, onClose }: { open: boolean; onClose: () => vo
 function Home() {
   const [modalOpen, setModalOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
-  const [openService, setOpenService] = useState<number | null>(1);
+  const [openService, setOpenService] = useState<number | null>(null);
   const openConsultation = () => { setModalOpen(true); setMenuOpen(false); };
   const closeMenu = () => setMenuOpen(false);
 
   return (
     <div className="grain min-h-[100dvh] overflow-hidden bg-[#f5f1e7] text-[#102b3b]">
-      <header className="absolute left-0 right-0 top-0 z-30 border-b border-white/15 text-[#f5f1e7]">
+      <header className="fixed left-0 right-0 top-0 z-30 border-b border-white/15 bg-[#102b3b]/95 text-[#f5f1e7] shadow-[0_6px_24px_rgba(5,20,29,.12)] backdrop-blur-sm">
         <div className="mx-auto flex max-w-[1320px] items-center justify-between px-6 py-5 lg:px-12">
           <a href="#top" onClick={closeMenu} data-testid="link-brand" className="group flex items-center gap-3">
             <span className="flex h-9 w-9 items-center justify-center border border-[#c6a86a] text-[#c6a86a] font-display text-xl italic">Y</span>
